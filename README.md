@@ -1,1 +1,1 @@
-Thhis data set has been taken from kaggle .Here i performed EDA on Data and built a regression model which predicts salary of the student placed and classification model on whether the student got placed or not
+This data set has been taken from kaggle .Here i performed EDA on Data and built a regression model which predicts salary of the student placed and classification model on whether the student got placed or not
